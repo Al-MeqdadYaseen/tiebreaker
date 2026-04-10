@@ -54,7 +54,7 @@ An AI-powered decision-making assistant that helps you break down tough choices.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/the-tiebreaker/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Al-MeqdadYaseen/the-tiebreaker/issues).
 
 ## 📝 License
 
